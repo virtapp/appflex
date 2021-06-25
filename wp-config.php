@@ -42,13 +42,13 @@ $_SERVER["HTTPS"] = "on";
 define( 'DB_NAME', 'appflex' );
 
 /** MySQL database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'xxxxxxx' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'fuko09phsurxho' );
+define( 'DB_PASSWORD', 'xxxxxxx' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'swarmdb' );
+define( 'DB_HOST', 'xxxxxxx' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
