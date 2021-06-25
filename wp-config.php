@@ -39,16 +39,16 @@ $_SERVER["HTTPS"] = "on";
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'appflex' );
+define( 'DB_NAME', 'xxx-xxx-xxx' );
 
 /** MySQL database username */
-define( 'DB_USER', 'xxxxxxx' );
+define( 'DB_USER', 'xxx-xxx-xxx' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'xxxxxxx' );
+define( 'DB_PASSWORD', 'xxx-xxx-xxx' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'xxxxxxx' );
+define( 'DB_HOST', 'xxx-xxx-xxx' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
